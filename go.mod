@@ -1,3 +1,3 @@
-module exercice3/web_server
+module miniapi/routes
 
 go 1.19
