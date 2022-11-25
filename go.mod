@@ -1,3 +1,3 @@
-module miniapi/routes
+module miniapi
 
 go 1.19
